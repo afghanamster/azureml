@@ -11,8 +11,6 @@ ENV AZURE_SUBSCRIPTION_ID=your-subscription-id \
     AZURE_CLIENT_ID=your-azure-client-id \
     AZURE_CLIENT_SECRET=your-azure-client-secret \
     AZURE_TENANT_ID=your-azure-tenant-id \
-    AZURE_LOG_ANALYTICS_WORKSPACE_ID=your-azure-log-analytics-workspace-id \
-    AZURE_TRAFFIC_ANALYTICS_WORKSPACE_ID=your-azure-traffic-analytics-workspace-id
 
 
 
